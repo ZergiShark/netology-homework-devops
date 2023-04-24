@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "80848b6deb392732",
+    "type": "split",
+    "children": [
+      {
+        "id": "66bd5fea68adcd5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "871a257729c47cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами».md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7b00540388cc09f",
+    "type": "split",
+    "children": [
+      {
+        "id": "26a85ef2e4ee0c22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af664958c0132462",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ec4e3ebc14600e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7162478b515a612",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f32919127dae300",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae696812bfca736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d694a4a5825ec2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами».md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fc37eb026787fa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами».md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07e68b0356cda4a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d6b97dcb819e150",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами».md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "871a257729c47cb3",
+  "lastOpenFiles": [
+    "screenshots/Screenshot_2.png",
+    "screenshots/Screenshot_1.png",
+    "Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами».md",
+    "screenshots/Screenshot_1.md"
+  ]
+}
