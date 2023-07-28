@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "3e400a1c0b69b1bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b1446dcc22848b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e4d1a1c0ef9dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашнее задание к занятию 1. «Типы и структура СУБД».md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f54caaa8dff4208",
+    "type": "split",
+    "children": [
+      {
+        "id": "861270f91ea87a86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7094cfd6711ac8be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e19ea94a32a2664",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0103b43b0a6bd0ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57a6095cdbee584e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0748032a02540eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7745b1331eb9227f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Домашнее задание к занятию 1. «Типы и структура СУБД».md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eeea991c85df64b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Домашнее задание к занятию 1. «Типы и структура СУБД».md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcaf163f715ab670",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e58491c731381e3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Домашнее задание к занятию 1. «Типы и структура СУБД».md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "75e4d1a1c0ef9dab",
+  "lastOpenFiles": [
+    "Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами».md",
+    "Домашнее задание к занятию 1. «Типы и структура СУБД».md",
+    "Домашнее задание к занятию 3. «Введение. Экосистема. Архитектура. Жизненный цикл Docker-контейнера».md"
+  ]
+}
