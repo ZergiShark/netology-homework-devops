@@ -20,3 +20,4 @@ Broadwell (standard-v1) и Intel Cascade Lake (standard-v2). Также, мин�
 ![screenshot](/screenshots/terraform_ssh.png)
 ## Задание 2
 
+![screenshot](/screenshots/terraform_plan.png)
